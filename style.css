@@ -1,0 +1,89 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: black;
+}
+header{
+    display: inline-block;
+    color: #888888;
+    background-color: #000000;
+    padding: auto;
+    margin: auto;
+}
+.head{
+    display: inline-block;
+    color: #888888;
+    background-color: #000000;
+}
+.razerstore_awards_giveaway{
+    text-align: center;
+    color: #EEEEEE;
+    background-color: #555555;
+    padding: 11.5px 40px 9.5px 30px;
+    margin: auto;
+}
+
+.list{
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px 12px;
+    margin-left: 6rem;
+}
+.a{
+    padding: 20px 24px 0px 60px; 
+}
+.a li{
+    display: inline;
+    padding: 0px 40px 20px 0px;
+
+}
+.for_gamers{
+    text-align: right;
+    color: #44D62C;
+}
+.img1{
+    width: 1206px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+    max-height: 100vh;
+}
+.img2{
+    width: 598px;
+}
+.imgbox{
+    display: grid;
+    height: 100%;
+}
+.imgboxa{
+    padding-left: 10%;
+}
+.list li{
+    padding: 4px 0px 12px;
+    color: #999999;
+}
+.list h4{
+    color: #FFFFFF;
+}
+.copyright{
+    color: #999999;
+}
+.united_states{
+    color: #FFFFFF;
+}
+.united_states span{
+    color:#999999;
+}
+.united_states span:hover{
+    text-emphasis-color: white;
+    text-emphasis: underline;
+}
+.copyright li{
+    display: inline;
+}
+.hra{
+    color: #44D62C;
+}
